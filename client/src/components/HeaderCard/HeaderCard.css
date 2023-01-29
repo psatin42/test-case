@@ -1,3 +1,13 @@
+.header-link {
+  color: #2451B2;
+  text-decoration: none;
+}
+
+.mycard:hover {
+  color: white;
+  background-color:#2451B2;
+}
+
 .mycard {
   min-width: 350px;
   padding-left: 25px;
@@ -12,10 +22,10 @@
   position: relative;
 }
 
-.mycard:first-child {
+/* .mycard:first-child {
   color: white;
   background-color: #2451B2;
-}
+} */
 
 .header-image {
   max-width: 70px;
