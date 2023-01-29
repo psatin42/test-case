@@ -24,3 +24,16 @@
   color: red;
   font-size: 24px;
 }
+
+@media screen and (max-width: 768px){
+  .form {
+    margin-top: 50px;
+  }
+  .form-inputs {
+    display: block;
+  }
+  .form-button {
+    margin: 20px auto;
+    right: 15vw;
+  }
+}
